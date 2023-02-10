@@ -6,4 +6,5 @@
 #
 #
 pluto.tv
+analytics.google.com
 # EOF
