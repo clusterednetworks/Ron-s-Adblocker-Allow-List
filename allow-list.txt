@@ -9,4 +9,5 @@ pluto.tv
 analytics.google.com
 tawk.to
 youtube.com
+cbsnews.com
 # EOF
