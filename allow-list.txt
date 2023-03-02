@@ -10,4 +10,5 @@ analytics.google.com
 tawk.to
 youtube.com
 cbsnews.com
+dash.partnerstack.com
 # EOF
