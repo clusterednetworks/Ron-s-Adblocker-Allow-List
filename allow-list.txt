@@ -14,5 +14,7 @@ dash.partnerstack.com
 citytv.com
 hayu.com
 cbs.com
+media.history.ca
+media.foodnetwork.ca
 watch.globaltv.com
 # EOF
