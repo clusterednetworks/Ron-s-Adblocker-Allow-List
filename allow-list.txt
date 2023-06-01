@@ -16,6 +16,8 @@ citytv.com
 hayu.com
 cbs.com
 media.history.ca
+media.slice.ca
 media.foodnetwork.ca
 watch.globaltv.com
+www.globaltv.com
 # EOF
