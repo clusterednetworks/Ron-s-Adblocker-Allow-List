@@ -11,6 +11,7 @@ tawk.to
 # youtube.com
 cbsnews.com
 dash.partnerstack.com
+media.globaltv.com
 citytv.com
 hayu.com
 cbs.com
