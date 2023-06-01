@@ -10,6 +10,7 @@ analytics.google.com
 tawk.to
 # youtube.com
 cbsnews.com
+instagram.com
 dash.partnerstack.com
 watch.globaltv.com
 # EOF
