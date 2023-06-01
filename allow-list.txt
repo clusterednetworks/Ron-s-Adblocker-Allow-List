@@ -11,5 +11,6 @@ tawk.to
 # youtube.com
 cbsnews.com
 dash.partnerstack.com
+citytv.com
 watch.globaltv.com
 # EOF
