@@ -13,5 +13,6 @@ cbsnews.com
 dash.partnerstack.com
 citytv.com
 hayu.com
+cbs.com
 watch.globaltv.com
 # EOF
