@@ -12,5 +12,6 @@ tawk.to
 cbsnews.com
 dash.partnerstack.com
 citytv.com
+hayu.com
 watch.globaltv.com
 # EOF
