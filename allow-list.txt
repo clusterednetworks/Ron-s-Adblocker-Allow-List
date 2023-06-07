@@ -10,6 +10,7 @@ analytics.google.com
 tawk.to
 # youtube.com
 cbsnews.com
+flipp.com
 dash.partnerstack.com
 media.globaltv.com
 citytv.com
