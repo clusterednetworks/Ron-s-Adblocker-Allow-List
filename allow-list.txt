@@ -6,6 +6,7 @@
 #
 #
 pluto.tv
+flipp.com
 analytics.google.com
 windisgood.com
 tawk.to
