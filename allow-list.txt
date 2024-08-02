@@ -26,4 +26,5 @@ media.slice.ca
 media.foodnetwork.ca
 watch.globaltv.com
 www.globaltv.com
+cnbc.com
 # EOF
