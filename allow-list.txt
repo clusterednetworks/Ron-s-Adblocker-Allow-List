@@ -27,4 +27,5 @@ media.foodnetwork.ca
 watch.globaltv.com
 www.globaltv.com
 cnbc.com
+reuters.com
 # EOF
