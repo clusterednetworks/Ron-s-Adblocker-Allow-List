@@ -28,4 +28,5 @@ watch.globaltv.com
 www.globaltv.com
 cnbc.com
 reuters.com
+bnnbloomberg.ca
 # EOF
