@@ -29,4 +29,5 @@ www.globaltv.com
 cnbc.com
 reuters.com
 bnnbloomberg.ca
+nbcnews.com
 # EOF
