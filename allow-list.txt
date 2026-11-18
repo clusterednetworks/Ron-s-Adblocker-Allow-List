@@ -30,6 +30,6 @@ cnbc.com
 reuters.com
 bnnbloomberg.ca
 nbcnews.com
-https://www.cbsnews.com/live/
+cbsnews.com/live
 connectivitycheck.gstatic.com
 # EOF
