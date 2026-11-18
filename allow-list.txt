@@ -32,4 +32,5 @@ bnnbloomberg.ca
 nbcnews.com
 cbsnews.com/live
 connectivitycheck.gstatic.com
+mybell.bell.ca
 # EOF
